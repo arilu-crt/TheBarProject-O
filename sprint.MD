@@ -1,4 +1,4 @@
-# Sprint: SPRINTNAMEHERE (29.06.2021 - 09.07.2021)
+# Sprint: TheBarProject-O (29.06.2021 - 09.07.2021)
 
 
 ## Features/Stories/Tasks
