@@ -35,11 +35,14 @@ Create a controller method for getting one specific product
 Creata a service method for getting all products from the database  
 Creata a service method for getting a specific product from the database  
     
+* Feature: Create vue app 
+  - Story: Create the front end that will link to the backend.
+
 
 * Feature: Host vue.js app with dotnet core  
   - Story: As a Developer I want to host my front-end within the dotnet core api  
 Configure the aspnet core api to host js-frontend(vue)   
-Configure the front-end to send request to aspnet api(instead of express) 
+Configure the front-end to send request to aspnet api
 
 * Feature: Add Bars, and edit bar information 
   - Story: I want users to be able to add new bars and to be able to edit current information. 
