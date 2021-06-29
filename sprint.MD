@@ -39,4 +39,13 @@ Creata a service method for getting a specific product from the database
 * Feature: Host vue.js app with dotnet core  
   - Story: As a Developer I want to host my front-end within the dotnet core api  
 Configure the aspnet core api to host js-frontend(vue)   
-Configure the front-end to send request to aspnet api(instead of express)  
+Configure the front-end to send request to aspnet api(instead of express) 
+
+* Feature: Add Bars, and edit bar information 
+  - Story: I want users to be able to add new bars and to be able to edit current information. 
+
+* Feature: Have the option of adding bars to a favourite bar page
+  - Story: I want users to be able to add bars to a favourite page, so they can get easy access to their favourite bars.
+
+* Feature: Styling
+  - Story: Styling the app so that it is practical and smooth to navigate.
