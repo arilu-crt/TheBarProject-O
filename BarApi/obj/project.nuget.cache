@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HqRIJYrprgFGVmz6EqmyK7/Ei4B4rWETu8n+53eEmEbgrzEUPFu6LydCNorg7+2WvEg6h4xo0HCYV2l+UYwWJQ==",
+  "success": true,
+  "projectFilePath": "/Volumes/Mac/GlassPaper/csharp/TheBarProject-O/BarApi/BarApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/arianecoriat/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/arianecoriat/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/arianecoriat/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/arianecoriat/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/arianecoriat/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/arianecoriat/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
